@@ -1,9 +1,12 @@
 Hello World!!
 
-Change - for login feature
+Change -> For login feature
 
-Change - payment feature
+Change -> Payment feature
 
-Change - to fix bug
+Change -> To fix bug1
 
-Change - made by another team mate
+Change -> To fix bug2
+
+Change -> Made by another team mate
+
